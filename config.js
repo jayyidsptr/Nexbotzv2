@@ -44,16 +44,16 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6285739061821'
+global.nomorown = '6289654645695'
+global.namebot = 'praAI'
+global.nameown = 'PRA'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
+  ['6285739061821'],
+  ['6289654645695'],
   ['18126338970'],
   ['6289654645695', 'PRA', true]
   // [number, dia creator/owner?, dia developer?]
@@ -105,7 +105,7 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By praAi' //Main Watermark
+global.wm = 'By praAI' //Main Watermark
 global.wm2 = 'PRA'
 global.wm3 = 'praAI | By PRA'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
